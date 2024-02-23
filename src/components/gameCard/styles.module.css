@@ -1,0 +1,15 @@
+.card {
+  background-color: rgb(241, 241, 241);
+  border-radius: 15px;
+  margin-bottom: 1.5rem;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+  border-radius: 15px 15px 0 0;
+}
+
+.text {
+  padding: 15px;
+}

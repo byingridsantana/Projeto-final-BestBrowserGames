@@ -1,0 +1,8 @@
+.star {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 25px;
+  line-height: 25px;
+  padding: 10px 15px;
+}
